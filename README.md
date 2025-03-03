@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ahsanma/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://github.com/ahsanma/blog-preview-card-main)
+- Solution URL: [Solution URL](https://github.com/ahsanma/blog-preview-card-main)
+- Live Site URL: [Live Site URL](https://ahsanma.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -58,5 +58,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/ahsanma/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ahsanma)
+- Website - [ahsanma](https://github.com/ahsanma/)
+- Frontend Mentor - [@ahsanma](https://www.frontendmentor.io/profile/ahsanma)
