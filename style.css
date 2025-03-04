@@ -110,7 +110,7 @@ body {
 .tag {
   font-size: clamp(
     var(--fs-small-m),
-    0.6993rem + 0.2162vw,
+    11.2px + 0.2162vw,
     var(--fs-small)
   ); /* 375px 1300px */
   align-self: start;
@@ -124,7 +124,7 @@ body {
   font-weight: var(--fw-medium);
   font-size: clamp(
     var(--fs-small-m),
-    0.6993rem + 0.2162vw,
+    11.2px + 0.2162vw,
     var(--fs-small)
   ); /* 375px 1300px */
 }
@@ -145,7 +145,7 @@ body {
   font-weight: var(--fw-medium);
   font-size: clamp(
     var(--fs-medium-m),
-    0.8243rem + 0.2162vw,
+    13.2px + 0.2162vw,
     var(--fs-medium)
   ); /* 375px 1300px */
   line-height: 1.5;
@@ -153,6 +153,7 @@ body {
 
 .author {
   display: flex;
+  align-items: center;
   gap: var(--gap-small); /* 12px */
 }
 
